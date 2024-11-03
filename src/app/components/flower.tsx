@@ -61,7 +61,7 @@ const Flower =() => {
           </div>
           <div className="flower-box">
             <Image
-              src="/voilet.webp"
+              src="/vioted.jpeg"
               alt="Flower 6"
               width={200}
               height={150}
